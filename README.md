@@ -4,18 +4,15 @@
 >第一次用github 时间是2016年3月26日<br/>
 
 ### 讲一讲README怎么写哈
-    1.\#就是一级菜单 </br>
-    2.\##就是二级菜单 </br>
-    3.\###就是三级菜单 </br>
-     (注意#和标题字符中间要有空格)</br>
-    4.\</br>就是换行
-    5.\#*文本*就是加粗
+    1.#就是一级菜单 
+    2.##就是二级菜单 
+    3.###就是三级菜单 
+     (注意#和标题字符中间要有空格)
+    4.</br>就是换行
+    5.#*文本*就是加粗
+    5.[#*文本*]就是居中
+    6.>这个就是标识吧
    
-    
-
-   
-### 单行文本框  
-    这是一个单行的文本框,只要两个Tab再输入文字即可  
            
 ### 多行文本框    
     这是一个有多行的文本框  
@@ -24,16 +21,11 @@
    
 ### 比如我们可以在多行文本框里输入一段代码,来一个Java版本的HelloWorld吧  
     public class HelloWorld {  
-   
-      /**  
-      * @param args  
-   */  
-   public static void main(String[] args) {  
-   System.out.println("HelloWorld!");  
-   
-   }  
-   
+        public static void main(String[] args) {  
+            System.out.println("HelloWorld!");  
+        }  
     }  
+    
 ### 链接  
 1.[点击这里你可以链接到www.google.com](http://www.google.com)<br />  
 2.[点击这里我你可以链接到我的博客](http://guoyunsky.iteye.com)<br />  
