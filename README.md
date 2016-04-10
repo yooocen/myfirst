@@ -7,7 +7,7 @@
     1.#就是一级菜单 
     2.##就是二级菜单 
     3.###就是三级菜单 (注意#和标题字符中间要有空格)
-    4.</br>就是换行
+    4.<br />就是换行
     5.#*文本*就是加粗
     5.[#*文本*]就是居中
     6.>这个就是标识吧,但>只能放在行首才有效,只要再文字前面加上>空格即可  
@@ -24,17 +24,18 @@
         }  
     }  
     
-### 链接  
+### 显示链接  
 [点击这里你可以链接到百度](http://www.baidu.com)</br>  
 
    
-###只是显示图片  
+### 显示图片  
 ![github](http://github.com/unicorn.png "github")  
 ![github](https://avatars0.githubusercontent.com/u/6541847?v=3 "github") 
    
-###想点击某个图片进入一个网页,比如我想点击github的icorn然后再进入www.github.com  
+### 想点击某个图片进入一个网页
+github的icon所在:http://github.com/github.png<br />
 [![image]](http://www.github.com/)  
-[image]: http://github.com/github.png "github"  
+[image]: https://avatars2.githubusercontent.com/u/9919?v=3 "github"  
    
 
 ### 特殊字符处理  
