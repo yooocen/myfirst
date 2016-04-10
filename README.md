@@ -6,8 +6,7 @@
 ### 讲一讲README怎么写哈
     1.#就是一级菜单 
     2.##就是二级菜单 
-    3.###就是三级菜单 
-     (注意#和标题字符中间要有空格)
+    3.###就是三级菜单 (注意#和标题字符中间要有空格)
     4.</br>就是换行
     5.#*文本*就是加粗
     5.[#*文本*]就是居中
@@ -17,9 +16,8 @@
 ### 多行文本框    
     这是一个有多行的文本框  
     你可以写入代码等,每行文字只要输入两个Tab再输入文字即可  
-    这里你可以输入一段代码  
-   
-### 比如我们可以在多行文本框里输入一段代码,来一个Java版本的HelloWorld吧  
+    这里你可以输入一段代码:
+    比如我们可以在多行文本框里输入一段代码,来一个Java版本的HelloWorld吧  
     public class HelloWorld {  
         public static void main(String[] args) {  
             System.out.println("HelloWorld!");  
@@ -32,6 +30,7 @@
    
 ###只是显示图片  
 ![github](http://github.com/unicorn.png "github")  
+![github](https://avatars0.githubusercontent.com/u/6541847?v=3 "github") 
    
 ###想点击某个图片进入一个网页,比如我想点击github的icorn然后再进入www.github.com  
 [![image]](http://www.github.com/)  
